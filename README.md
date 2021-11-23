@@ -1,3 +1,3 @@
 # LiteNetLib
 
-Updated version of LiteNetLib, adapted to our project
+Updated version of LiteNetLib, adapted to our projects
